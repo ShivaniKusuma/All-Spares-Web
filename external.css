@@ -1,0 +1,15 @@
+.mystyle{
+color: green;
+font-weight: bold;
+font-family: sans-serif;
+}
+#tName{
+font-weight: bold;
+color:red;
+font-style: italic;
+}
+textarea
+{
+       font-size: large;
+       color: darkorange;
+}
